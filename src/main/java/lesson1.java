@@ -6,9 +6,9 @@ public class lesson1 {
      * авпвапвап
      * вапвапвп
      * вапвав
+     *ertertret
+     *ertertert
      *
-     *
-     *
-     *
+     *erterterte
      */
 }
